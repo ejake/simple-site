@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "transport_type": "Train",
+        "route_number": "Route-922",
+        "capacity": 102,
+        "current_passengers": 25,
+        "status": "Delayed",
+        "last_maintenance": "2023-10-28",
+        "latitude": -12.641499,
+        "longitude": 70.832097
+    },
+    {
+        "id": 2,
+        "transport_type": "Train",
+        "route_number": "Route-430",
+        "capacity": 160,
+        "current_passengers": 148,
+        "status": "Maintenance",
+        "last_maintenance": "2023-06-06",
+        "latitude": -15.965712,
+        "longitude": 70.744804
+    },
+    {
+        "id": 3,
+        "transport_type": "Train",
+        "route_number": "Route-308",
+        "capacity": 146,
+        "current_passengers": 139,
+        "status": "Delayed",
+        "last_maintenance": "2023-11-03",
+        "latitude": -27.91206,
+        "longitude": 46.089402
+    },
+    {
+        "id": 4,
+        "transport_type": "Tram",
+        "route_number": "Route-452",
+        "capacity": 99,
+        "current_passengers": 38,
+        "status": "Active",
+        "last_maintenance": "2020-11-13",
+        "latitude": -19.452748,
+        "longitude": 92.276609
+    },
+    {
+        "id": 5,
+        "transport_type": "Bus",
+        "route_number": "Route-348",
+        "capacity": 92,
+        "current_passengers": 91,
+        "status": "Active",
+        "last_maintenance": "2021-09-03",
+        "latitude": 42.011907,
+        "longitude": -21.047848
+    },
+    {
+        "id": 6,
+        "transport_type": "Subway",
+        "route_number": "Route-734",
+        "capacity": 108,
+        "current_passengers": 103,
+        "status": "Maintenance",
+        "last_maintenance": "2022-12-03",
+        "latitude": 62.61102,
+        "longitude": -9.653269
+    },
+    {
+        "id": 7,
+        "transport_type": "Subway",
+        "route_number": "Route-707",
+        "capacity": 119,
+        "current_passengers": 103,
+        "status": "Full",
+        "last_maintenance": "2022-06-20",
+        "latitude": -63.400013,
+        "longitude": 124.27113
+    },
+    {
+        "id": 8,
+        "transport_type": "Subway",
+        "route_number": "Route-813",
+        "capacity": 140,
+        "current_passengers": 11,
+        "status": "Active",
+        "last_maintenance": "2020-06-16",
+        "latitude": -22.17477,
+        "longitude": 81.267117
+    },
+    {
+        "id": 9,
+        "transport_type": "Subway",
+        "route_number": "Route-475",
+        "capacity": 112,
+        "current_passengers": 27,
+        "status": "Active",
+        "last_maintenance": "2021-09-11",
+        "latitude": 41.891851,
+        "longitude": -116.476531
+    },
+    {
+        "id": 10,
+        "transport_type": "Taxi",
+        "route_number": "Route-859",
+        "capacity": 36,
+        "current_passengers": 30,
+        "status": "Delayed",
+        "last_maintenance": "2022-10-01",
+        "latitude": -2.646841,
+        "longitude": -40.531473
+    }
+]
